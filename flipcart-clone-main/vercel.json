@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://flipcart-clone-main-swjj.onrender.com/:path*"
+    }
+  ]
+}
