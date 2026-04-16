@@ -11,11 +11,11 @@ export const products = [
     description: 'Experience immersive sound with boAt Airdopes 141 featuring BEAST Mode for low-latency gaming, ENx Environmental Noise Cancellation, IWP (Instant Wake N Pair), and up to 42 hours of total playtime. IPX4 water and sweat resistant.',
     extraDiscount: 'Bank Offer',
     tagline: 'Best Seller',
-    image: 'https://images.unsplash.com/photo-1590658268037-6bf12f032f55?w=400&h=400&fit=crop',
+    image: 'https://images.unsplash.com/photo-1668649176554-3ad841a780d0?w=400&h=400&fit=crop',
     images: JSON.stringify([
-      'https://images.unsplash.com/photo-1590658268037-6bf12f032f55?w=400&h=400&fit=crop',
-      'https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=400&h=400&fit=crop',
-      'https://images.unsplash.com/photo-1631867934509-1f4f5bb04e0f?w=400&h=400&fit=crop'
+      'https://images.unsplash.com/photo-1563014959-7aaa83350992?w=400&h=400&fit=crop',
+      'https://images.unsplash.com/photo-1667178173387-7e0cb51c0b4f?w=400&h=400&fit=crop',
+      'https://images.unsplash.com/photo-1632200004922-bc18602c79fc?w=400&h=400&fit=crop'
     ]),
     category: 'Electronics',
     brand: 'boAt',
@@ -72,10 +72,10 @@ export const products = [
     description: 'Fire-Boltt Phoenix smartwatch features Bluetooth calling, 1.3" HD display, 120+ sports modes, heart rate & SpO2 monitoring, and IP67 water resistance with up to 7 days battery life.',
     extraDiscount: 'Limited Time Offer',
     tagline: 'Best Seller',
-    image: 'https://images.unsplash.com/photo-1546868871-af0de0ae72be?w=400&h=400&fit=crop',
+    image: 'https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=400&h=400&fit=crop',
     images: JSON.stringify([
-      'https://images.unsplash.com/photo-1546868871-af0de0ae72be?w=400&h=400&fit=crop',
-      'https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=400&h=400&fit=crop'
+      'https://images.unsplash.com/photo-1551816230-ef5deaed4a26?w=400&h=400&fit=crop',
+      'https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=400&h=400&fit=crop'
     ]),
     category: 'Electronics',
     brand: 'Fire-Boltt',
@@ -295,9 +295,9 @@ export const products = [
     description: 'Wipro 9W LED bulb pack of 4. Cool daylight (6500K), B22 base, energy efficient with 25000 hours rated life.',
     extraDiscount: 'Pack of 4',
     tagline: 'Best Value',
-    image: 'https://images.unsplash.com/photo-1565814329452-e1432c010ce4?w=400&h=400&fit=crop',
+    image: 'https://images.unsplash.com/photo-1601698015099-9459a95728fd?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?w=400&h=400&fit=crop',
     images: JSON.stringify([
-      'https://images.unsplash.com/photo-1565814329452-e1432c010ce4?w=400&h=400&fit=crop'
+      'https://images.unsplash.com/photo-1532007271951-c487760934ae?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8OXclMjBsZWR8ZW58MHx8MHx8fDA%3D?w=400&h=400&fit=crop'
     ]),
     category: 'Home',
     brand: 'Wipro',
@@ -434,9 +434,9 @@ export const products = [
     description: 'VILLAIN Wicked EDP with long-lasting fragrance. Fresh aquatic top notes, spicy heart, and woody base.',
     extraDiscount: 'Min 50% Off',
     tagline: 'Trending',
-    image: 'https://images.unsplash.com/photo-1594035910387-fea081d22b62?w=400&h=400&fit=crop',
+    image: 'https://images.unsplash.com/photo-1523293182086-7651a899d37f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyZnVtZXxlbnwwfHwwfHx8MA%3D%3D?w=400&h=400&fit=crop',
     images: JSON.stringify([
-      'https://images.unsplash.com/photo-1594035910387-fea081d22b62?w=400&h=400&fit=crop'
+      'https://images.unsplash.com/photo-1594035910387-fea47794261f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cGVyZnVtZXxlbnwwfHwwfHx8MA%3D%3D?w=400&h=400&fit=crop'
     ]),
     category: 'Beauty',
     brand: 'VILLAIN',
@@ -573,9 +573,9 @@ export const products = [
     description: 'High-speed remote control rock crawler car with 2.4GHz remote, rechargeable battery.',
     extraDiscount: 'Up to 75% Off',
     tagline: 'Trending',
-    image: 'https://images.unsplash.com/photo-1581235707960-35f13e12336d?w=400&h=400&fit=crop',
+    image: 'https://images.unsplash.com/photo-1541643600914-78b084683601?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cHJvZHVjdHN8ZW58MHx8MHx8fDA%3D?w=400&h=400&fit=crop',
     images: JSON.stringify([
-      'https://images.unsplash.com/photo-1581235707960-35f13e12336d?w=400&h=400&fit=crop'
+      'https://plus.unsplash.com/premium_photo-1661597156656-75ba116e9e1d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cHJvZHVjdHN8ZW58MHx8MHx8fDA%3D?w=400&h=400&fit=crop'
     ]),
     category: 'Toys',
     brand: 'Amisha',

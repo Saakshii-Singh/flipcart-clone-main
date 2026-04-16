@@ -9,7 +9,7 @@ const bannerSlides = [
     detail: 'Up to ₹7,500 cashback',
     gradient: 'from-[#e8f5e9] to-[#c8e6c9]',
     textDark: true,
-    image: 'https://images.unsplash.com/photo-1631644281270-0f66bc0f2c96?w=800&h=400&fit=crop',
+    image: 'https://images.unsplash.com/photo-1607082349566-187342175e2f?w=800&h=400&fit=crop',
   },
   {
     id: 2,
