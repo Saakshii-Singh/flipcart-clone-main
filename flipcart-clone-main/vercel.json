@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://flipcart-clone-main-swjj.onrender.com/:path*"
+      "destination": "https://flipcart-clone-main-1.onrender.com/:path*"
     }
   ]
 }
